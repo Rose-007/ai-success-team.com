@@ -1,5 +1,8 @@
 # === AI-SUCCESS TEAM - Security Control ===
-# ไม่เอาขึ้นโพสต์ทางการจนกว่าหน้าบ้านพร้อม
+## ซ่อนโนด edenworld-portal
+edenworld-portal/
+edenworld-portal.html
+edenworld/
 
 # -- ไฟล์ลับ / คีย์ / โทเค็น --
 .env
