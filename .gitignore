@@ -1,0 +1,41 @@
+# === AI-SUCCESS TEAM - Security Control ===
+# ไม่เอาขึ้นโพสต์ทางการจนกว่าหน้าบ้านพร้อม
+
+# -- ไฟล์ลับ / คีย์ / โทเค็น --
+.env
+.env.*
+*.key
+*.pem
+*.p12
+secrets/
+private/
+*secret*.txt
+*secret*.json
+
+# -- ไฟล์ LEO3C ที่ยังไม่พร้อมโพสต์ --
+# ตอนนี้ซ่อนไว้ก่อน รอโพสต์ทางการใน Project 2
+core/private/
+access/pending/
+LEO3C-*.draft.html
+*Countries-Locked*.html
+*Master-Contract*.html
+*Official-Policy*.html
+
+# -- ไฟล์ทดลอง / ไฟล์ใหญ่ --
+*.drawio
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# -- โฟลเดอร์ระบบ / ไม่ต้องโชว์ --
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+
+# -- ประวัติ MiniPen / Local Storage --
+# ไม่ต้องเอาขึ้น GitHub
+*.log
+localStorage-backup.json
