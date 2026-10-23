@@ -1,0 +1,15 @@
+ai-success-team.com/
+├── index.html (หน้าบ้านที่ทำไว้ + ปุ่ม LEO3C)
+├── .gitignore
+├── assets/
+│   ├── ect.pig_th
+├── core/
+│   ├── master-contract.html
+│   └── official-policy.html
+├── portals/
+│   ├── portal-v2.html
+│   └── edenworld.html
+├── access/
+│   └── countries-locked.html (ต้องกด Grant Access ก่อน)
+└── docs/
+    └── README สรุป 3 ระดับ + ลิงก์อ้างอิง MiniPen
