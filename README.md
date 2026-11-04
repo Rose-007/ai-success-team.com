@@ -1,74 +1,31 @@
-# AI-SUCCESS TEAM FOUNDATION — Ob()π System
+# LEO3C Global Licensing - Official Announcement: Actionable Implementation
 
-![Blockchain Verified](https://img.shields.io/badge/Blockchain-Verified-d1afa4?logo=ethereum) ![Priority Date](https://img.shields.io/badge/Priority-23Sep2026-blue) ![License MIT](https://img.shields.io/badge/License-MIT-green)
+> Everyone starts counting from one equally. We have been in this stream for a long time...
 
-> **Legal Banner:** Educational research foundation. Not a security, not financial advice. All content for knowledge-sharing purposes.
-> 
-> **Nomenclature:** LEO3C = Logic, Ethics, Ontology, 3 Pillars, Circular. Ob()π = Observational bias interface.
+This is not theory. This is **Actionable Implementation** - real structures built from shared lessons, verified architecture, and strict legal compliance from day one.
 
-## 🔗 Quick Navigation
+**LEO 3C: Leo Console - Decoupled 3D Space Controller**
+- Priority: 23 Sep 2026 (2569) | SHA: d1afa4... | PCT by Sep 2027
+- Architecture: AI-Success()architecture + IA&IB (Timestamped, Countable, Verifiable)
 
-| Icon | Section | Link |
-|------|---------|------|
-| 🧬 | LEO3C Framework | [→ /leo3c/README.md](./leo3c/README.md) |
-| 📜 | Policy TH/EN | [→ /leo3c/policy/](./leo3c/policy/) |
-| 🔐 | Patent & Blockchain Proof | [→ /leo3c/patent/Blockchain_Proof_SHA_d1afa4.md](./leo3c/patent/Blockchain_Proof_SHA_d1afa4.md) |
-| 🌐 | Public Portal V2.3 | [→ /leo3c/portal/V2.3_Public_Portal.html](./leo3c/portal/V2.3_Public_Portal.html) |
-| 🌍 | 7 Countries Locked V2.4 | [→ /leo3c/portal/V2.4_7Countries_Locked.html](./leo3c/portal/V2.4_7Countries_Locked.html) |
-| 📢 | Bangkok Blueprint + IMF | [→ /leo3c/announcements/Official_Announcement_Final.html](./leo3c/announcements/Official_Announcement_Final.html) |
-| ♻️ | Sustainability | [→ /leo3c/sustainability/](./leo3c/sustainability/) |
-| ⚖️ | Legal & Disclaimer | [→ /legal/](./legal/) |
-| 🖼️ | Image Gallery | [→ /assets/images/](./assets/images/) |
+## Two-Track Execution
 
-## 🖼️ Image Gallery
+**🔒 Track 1: Quota 7 Countries - Locked Separately (Condition Met)**
+TH / US / JP / CN / EU / KR / UK - Reserved under separate agreement to enforce **1 Country 1 License**
+Contact directly: bhudrose@gmail.com (No public form to prevent overlap)
 
-![Bhudin Cell](./assets/images/BhudinCell.jpg)
-![Logo](./assets/images/Logo03.jpg)
-![LEO3C Blueprint](./assets/images/LEO3C-Blueprint.jpg)
-![Blockchain Cert](./assets/images/Blockchain-Cert.png)
+**🌏 Track 2: Global Familiarity - Open**
+For all other countries: Build familiarity and mutual understanding. No legal obligation until formal registration.
+👉 Register: [Portal V2.4 Link]
 
-## 🧬 LEO3C Framework
+## Why Plastic-Eating Bacteria?
+True implementation accounts for end-of-life. We integrate circular economy research:
+🦠 Ideonella sakaiensis, FAST-PETase
+📚 Study: [Sustainability Page Link]
 
-> **3 Pillars:** Manufacturing • Ethics • Circular Economy
+## Temporary Domain
+This repo (https://github.com/Rose-007/ai-success-team.com) is a temporary presentation domain for educational portfolio and implementation evidence until formal funding improvement from self-generated work.
 
-- [LEO3C Policy Thai Complete](./leo3c/policy/LEO3C_Policy_TH.md)
-- [LEO3C Policy International](./leo3c/policy/LEO3C_Policy_EN.md)
-- [Manufacturing 3 Pillars](./leo3c/policy/Manufacturing_Policy_3Pillars.md)
-- [PCT Claims Draft](./leo3c/patent/PCT_Claims_Draft.md)
-- [Priority 23Sep2026](./leo3c/patent/Priority_23Sep2026.md)
-
-## 🌐 Portal Links
-
-- [Public Portal V2.3 - No Backend Required](./leo3c/portal/V2.3_Public_Portal.html)
-- [V2.4 - 7 Countries Quota Locked](./leo3c/portal/V2.4_7Countries_Locked.html)
-- [Registration Embed Code](./leo3c/portal/Registration_Form_Embed_Code.html)
-
-## 📢 Announcements
-
-- [Official Announcement Final - Bangkok Blueprint + IMF](./leo3c/announcements/Official_Announcement_Final.html)
-- [Bangkok Blueprint OnePager IMF2026](./leo3c/announcements/Bangkok_Blueprint_OnePager_IMF2026.html)
-- [Facebook Captions 9 Steps](./leo3c/announcements/Facebook_Captions_9Steps.md)
-
-## ♻️ Sustainability
-
-- [Plastic Eating Bacteria Research](./leo3c/sustainability/Plastic_Eating_Bacteria.md)
-- [Circular Economy Extension](./leo3c/sustainability/Circular_Economy_Extension.md)
-
-## ⚖️ Legal
-
-- [Disclaimer & Nomenclature](./legal/Disclaimer_Nomenclature.md)
-- [EOI Disclaimer](./legal/EOI_Disclaimer.md)
-- [MIT License](./LICENSE)
-
-## 🌐 Temporary Domain Explanation
-
-> This repo is a temporary domain presentation for ai-success-team.com
-> See: [index.html](./index.html) and [โดเมนชั่วคราว.pdf](./assets/docs-pdfs/โดเมนชั่วคราว.pdf)
-
-## 📧 Contact
-
-bhudrose@gmail.com
+**Legal Note:** Names AI-Success etc are specific names for educational sequence guidance only, not legal entity status. Benefits subject to balancing. Registrations are Expression of Interest only. See full disclaimer in README.
 
 ---
-> *Everyone starts counting from one equally...* — Ob()π
-> Blockchain SHA: d1afa4... | Verified
