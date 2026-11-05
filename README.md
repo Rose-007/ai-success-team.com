@@ -21,6 +21,21 @@
 
 ---
 
+👉 Register: [Leo3c-V2-Countries-Locked.html](./Leo3c-V2-Countries-Locked.html)
+
+📚 Policy TH: [Leo3c-Official-Policy-Complete.html](./Leo3c-Official-Policy-Complete.html)
+📚 Policy EN: [Leo3c-Policy-International-English.html](./Leo3c-Policy-International-English.html)
+📄 Bangkok Blueprint IMF 2026: [Bangkok-Blueprint-One-Pager.html](./Bangkok-Blueprint-One-Pager.html)
+📢 Official Announcement: [Launch-Announcement-Dual.html](./Launch-Announcement-Dual.html)
+
+## 🦠 Why Plastic-Eating Bacteria?
+True implementation accounts for end-of-life. We integrate circular economy research: 
+*Ideonella sakaiensis*, *FAST-PETase* (UT Austin 2022)
+
+📚 Study Module: [Will be added - LEO3C-Sustainability-Plastic-Bacteria.html]
+
+---
+
 ## 📛 Nomenclature Disclaimer — AI-SUCCESS Naming
 
 > **Disclaimer:** Names like "AI-SUCCESS TEAM", "Ob()π", "LEO-3C", "Bangkok Blueprint" are **temporary working titles** for this educational portfolio / self-generated work experiment. They do not represent a registered corporation, licensed entity, or formal affiliation with any institution unless explicitly stated in a final incorporation document. Any resemblance to existing trademarks is coincidental and for conceptual illustration only. This repo will be renamed upon formal funding / incorporation.
