@@ -32,8 +32,7 @@
 True implementation accounts for end-of-life. We integrate circular economy research: 
 *Ideonella sakaiensis*, *FAST-PETase* (UT Austin 2022)
 
-📚 Study Module: [Will be added - LEO3C-Sustainability-Plastic-Bacteria.html]
-
+📚 Study Module: Planned — not published yet. 
 ---
 
 ## 📛 Nomenclature Disclaimer — AI-SUCCESS Naming
