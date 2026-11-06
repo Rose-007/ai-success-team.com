@@ -1,9 +1,10 @@
 # AI-SUCCESS TEAM FOUNDATION — Ob()π System Interface | Temporary Domain
 
-![Status](https://github.com/Rose-007/ai-success-team.com/issues/21#issue-6236056323)
+![State](https://github.com/Rose-007/ai-success-team.com/issues/21#issue-6236056323)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![EOI](https://img.shields.io/badge/type-EOI%20Only-lightgrey)
 ![Education](https://img.shields.io/badge/purpose-educational%20portfolio-green)
+![Status](https://img.shields.io/badge/status-temporary%20domain-yellow)
 
 > ### ⚠️ LEGAL BANNER
 > **Temporary Presentation Domain — Educational Portfolio — Not Investment Solicitation — EOI Only**
